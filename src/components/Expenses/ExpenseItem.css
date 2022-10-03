@@ -31,7 +31,7 @@
     background-color: darkred;
     border: 1px solid #fff;
     padding: 0.5rem 2rem;
-    border-radius: 12px;
+    border-radius: 0;
 }
 
 @media (min-width: 580px) {

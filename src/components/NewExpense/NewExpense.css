@@ -2,18 +2,21 @@
     background-color: #fff;
     padding: 1rem;
     margin: 2rem auto;
-    width: 50rem;
+    width: 40rem;
     max-width: 95%;
     border-radius: 12px;
     text-align: center;
     box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25)
 }
 .new-expense button{
-    font: inherit;
+    font-size: 14px;
     cursor: pointer;
     background-color: darkred;
     color: #fff;
     border: 1px solid #fff;
     padding: 0.5rem 2rem;
-    border-radius: 12px;
+    border-radius: 0;
+}
+.new-expense button[type=button]{
+    margin-right: 20px;
 }
