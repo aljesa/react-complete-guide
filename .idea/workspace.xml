@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51b69059-ee10-4e30-affe-8ec384a5d1d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Expenses/ExpensesFilter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Expenses/ExpensesFilter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Expenses/ExpensesList.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Expenses/ExpensesList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Chart/Chart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Chart/Chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Chart/ChartBar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Chart/ChartBar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Expenses/ExpenseDate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Expenses/ExpenseItem.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Expenses/ExpenseItem.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Expenses/ExpenseItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Expenses/ExpenseItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Expenses/Expenses.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Expenses/Expenses.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/NewExpense/ExpenseForm.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NewExpense/ExpenseForm.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/NewExpense/ExpenseForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NewExpense/ExpenseForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/NewExpense/NewExpense.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NewExpense/NewExpense.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/NewExpense/NewExpense.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NewExpense/NewExpense.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +63,7 @@
       <updated>1664785448978</updated>
       <workItem from="1664785453322" duration="3548000" />
       <workItem from="1664789034328" duration="1432000" />
-      <workItem from="1664790500705" duration="11118000" />
+      <workItem from="1664790500705" duration="12174000" />
     </task>
     <servers />
   </component>
