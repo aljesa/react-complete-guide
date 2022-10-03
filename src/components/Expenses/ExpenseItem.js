@@ -11,7 +11,7 @@ function ExpenseItem(props) {
     function clickHandler() {
         setTitle('Updated!');
     }
-    
+
     return (
         <Card className="expense-item">
             <ExpenseDate date={props.date}/>
