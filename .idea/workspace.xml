@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51b69059-ee10-4e30-affe-8ec384a5d1d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Chart/Chart.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Chart/Chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Chart/ChartBar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Chart/ChartBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Expenses/ExpensesChart.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Chart/Chart.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Chart/Chart.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Chart/Chart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Chart/Chart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Chart/ChartBar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Chart/ChartBar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Chart/ChartBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Chart/ChartBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Expenses/Expenses.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Expenses/Expenses.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +65,7 @@
       <updated>1664785448978</updated>
       <workItem from="1664785453322" duration="3548000" />
       <workItem from="1664789034328" duration="1432000" />
-      <workItem from="1664790500705" duration="12174000" />
+      <workItem from="1664790500705" duration="15291000" />
     </task>
     <servers />
   </component>
